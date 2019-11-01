@@ -1,0 +1,7 @@
+{
+    "IsCheat": false,
+    "EntryPoint": "PsychedelicGooseMod.Main::RunPatch",
+    "Id": "PsychedelicGoose",
+    "DisplayName": "Psychedelic Goose Mod",
+    "Author": "AGoose"
+}
